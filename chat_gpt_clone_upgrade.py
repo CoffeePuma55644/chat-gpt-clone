@@ -42,7 +42,7 @@ def main():
     Fonction principale qui gère l'interaction avec l'utilisateur et le dialogue avec l'API.
     """
     current_thread_id = None  # Initialise l'ID du thread courant
-    print("Bienvenue dans le MokoliGPT !")
+    print("Bienvenue dans le CoffeePumaGPT !")
     print("Tape 'exit' pour quitter, 'new' pour démarrer un nouveau thread.")
     
     while True:
